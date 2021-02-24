@@ -19,7 +19,7 @@
  * @date 2014
  */
 
-/*Adina */
+/*Adina 1234*/
 
 #include "Account.h"
 #include <libdevcore/JsonUtils.h>
