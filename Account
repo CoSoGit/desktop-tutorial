@@ -19,6 +19,8 @@
  * @date 2014
  */
 
+/*Adina */
+
 #include "Account.h"
 #include <libdevcore/JsonUtils.h>
 #include <libethcore/ChainOperationParams.h>
