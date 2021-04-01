@@ -19,7 +19,7 @@
  * @date 2014
  */
 
-/*Adina Test*/
+/*Adina Test adina*/
 
 #include "Account.h"
 #include <libdevcore/JsonUtils.h>
